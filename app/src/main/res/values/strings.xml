@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pedri Virtual</string>
+    <string name="mi_nombre">Pedri</string>
+    <string name="texto_introductrio">Tu tienda virtual de confianza</string>
+    <!-- Menu -->
+    <string name="inicio">Inicio</string>
+    <string name="inicioSesion">Iniciar Sesión</string>
+    <string name="productos">Productos</string>
+    <string name="perfil">Perfil</string>
+    <string name="categorias">Categorias</string>
+    <string name="carrito">Carrito</string>
+
+    <!-- Inicio -->
+    <string name="bienvenida">¡Bienvenidon a Pedri Virtual!</string>
+    <string name="subtitulo">Explora nuestra colección de productos para todos los ambitos.</string>
+
+    <!-- Login -->
+    <string name="descripcion">Tu tienda de virtual favorita te esta esperando</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="cuenta">¿No tienes cuenta?</string>
+    <string name="ingreso">Ingresar</string>
+
+</resources>
